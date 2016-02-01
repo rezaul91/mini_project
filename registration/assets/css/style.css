@@ -1,0 +1,91 @@
+a{
+	text-decoration: none!important;
+}
+.header{
+	background: url("../images/bannar1.jpg") no-repeat scroll 0 0/100% 100%;
+}
+.shadow{
+	background: rgba(12, 18, 46,.5);
+}
+.logo h1 a{
+	color: #ffffff;
+}
+.logo h1 a:hover{
+	text-decoration: none;
+}
+
+.menu ul{
+	list-style: none;
+	margin:0 ;
+	padding:0;
+	border-bottom: 1px solid #878A95;
+}
+.menu ul li a{
+	padding: 30px 20px;
+	font-size: 10px;
+	color: #FFFFFF;
+	font-weight: bold;
+	display: inline-block;	
+	border-bottom: 1px solid #878A95;
+}
+.menu ul li a:hover{
+	border-bottom: 1px solid #FFFFFF;
+}
+.head{
+	color: #FFFFFF;
+	font-family: tahoma;
+	margin-top: 50px;
+}
+.circle{
+	margin: 50px 0;
+}
+.circle span{
+	font-size: 28px;
+	color: #FFFFFF;
+	border: 1px solid #FFFFFF;
+	padding: 20px;
+	border-radius: 50%;
+}
+.support{
+	width: 19%;
+	background: #FAFAFA;
+	padding: 20px 40px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+}
+.support:last-child{
+	margin: 0;
+}
+.acivities i{
+	color: #3F51B5;
+}
+.acivities p{
+	text-transform: uppercase;
+	font-family: tahoma;
+	font-size: 12px;
+}
+.minus{
+	color: #E91E63;
+}
+/* --------- */
+/* works */
+.works{
+	width: 40%;
+	padding-top: 60px;
+}
+.works h4{
+	color: #3F51B5;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.works hr{
+	width: 100px;
+	border: 2px solid #3F51B5;
+}
+.works h3{
+	text-transform: uppercase;	
+}
+.works p{
+	font-size: 13px;
+	line-height: 2.4em
+}
